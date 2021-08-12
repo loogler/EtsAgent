@@ -1,0 +1,3 @@
+include ':ota'
+include ':app'
+rootProject.name = "Supports"
